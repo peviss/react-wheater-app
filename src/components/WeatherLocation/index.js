@@ -9,7 +9,7 @@ const WeatherLocation = (props) => {
             <Location city={"Buenos Aires"}></Location>
             <WeatherData/>
         </div>
-        );
+    );
     
 };
 
